@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=header"/>
 # 💫 About Me:
-🔭 Tenho 23 anos, sou estágiario na NTT Ltd como Solution Architect 
+🔭 Tenho 23 anos, sou estágiario na NTT Ltd como Solution Architect<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisson-vml&bg_color=000000&color=b9d7e8&line=576cbc&point=a5d7e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
