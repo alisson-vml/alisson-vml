@@ -4,7 +4,7 @@
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisson-vml&bg_color=000000&color=b9d7e8&line=576cbc&point=a5d7e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-![Snake animation](https://github.com/alisson-vml/alisson-vml/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alisson-vml&show_icons=true&count_private=true&hide_border=true&title_color=628FDB&icon_color=33A299&text_color=E7F6F2&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -24,3 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alisson-vml&icon=3&color=12)](https://visitcount.itsvg.in)
 
+![Snake animation](https://github.com/alisson-vml/alisson-vml/blob/output/github-contribution-grid-snake.svg)
