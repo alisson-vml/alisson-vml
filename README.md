@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=576CBC&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Alisson+Vitor,+tenho+23+anos;Sou+estagiário+na+NTT+Ltd+como+Solution+Architect;%29)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 Tenho 23 anos, sou estágiario na NTT Ltd como Solution Architect<br>
 
