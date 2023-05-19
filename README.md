@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=2000&color=395B64&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Alisson+Vitor!!;Estagi%C3%A1rio+na+NTT+como+Solutions+Architect!!)](https://git.io/typing-svg)
 
 # 💫 About Me:
@@ -18,4 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alisson-vml&icon=3&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
