@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=header"/>
 # 💫 About Me:
 🔭 Tenho 23 anos, sou estágiario na NTT Ltd como Solution Architect 
 
