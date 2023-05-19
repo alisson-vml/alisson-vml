@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=2000&color=395B64&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Alisson+Vitor!!;Estagi%C3%A1rio+na+NTT+como+Solutions+Architect!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caroline+Barbosa;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 Tenho 23 anos, sou estágiario na NTT Ltd como Solution Architect<br>
