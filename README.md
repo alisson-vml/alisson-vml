@@ -25,7 +25,10 @@
 
 
 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alisson-vml/alisson-vml/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alisson-vml/alisson-vml/output/snake.svg">
+
+
+<img src="https://raw.githubusercontent.com/alisson-vml/alisson-vml/output/snake.svg" alt="Snake animation" />
 
 
 
