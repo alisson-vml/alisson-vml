@@ -22,7 +22,6 @@
   ##
 <!--[![](https://visitcount.itsvg.in/api?id=alisson-vml&icon=3&color=12)](https://visitcount.itsvg.in)-->
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alisson-vml/alisson-vml/output/snake.svg">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
