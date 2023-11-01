@@ -22,7 +22,7 @@
   ##
 <!--[![](https://visitcount.itsvg.in/api?id=alisson-vml&icon=3&color=12)](https://visitcount.itsvg.in)-->
 
-<img src="https://github.com/alisson-vml/alisson-vml/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- <img src="https://github.com/alisson-vml/alisson-vml/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
 
 
 
