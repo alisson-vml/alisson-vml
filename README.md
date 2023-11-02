@@ -1,10 +1,10 @@
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=header"/>-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=395B64&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Alisson+Vitor!!;Estagi%C3%A1rio+na+NTT+como+Software+Development!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=395B64&size=30&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Alisson+Vitor!!;Estagi%C3%A1rio+na+NTT+como+Software+Development!!)](https://git.io/typing-svg)
 
 <img src="https://github.com/alisson-vml/alisson-vml/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
 
-**Connect with me**
+<center><b>Connect with me</b></center>
 <p align="center">
 <a href="https://linkedin.com/in/alissonvitor" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=4B70F1"/></a>
 </p>
