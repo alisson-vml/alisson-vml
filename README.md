@@ -4,13 +4,13 @@
 
 <img src="https://github.com/alisson-vml/alisson-vml/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
 
-<p align="center">Connect with me</p>
+<p align="center">Conecte-se comigo</p>
 <p align="center">
 <a href="https://linkedin.com/in/alissonvitor" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=4B70F1"/></a>
 </p>
 
 
-<h1 align="center"> I'm currently learning </h1>
+<p align="center">Estudando no momento</p>
 <p align="center">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
