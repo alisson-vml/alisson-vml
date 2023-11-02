@@ -20,9 +20,9 @@
 </p>
 
 
-### 💻 Estudando no momento:
 <h3> :open_book: I'm currently learning : </h3>
 <p>
+  <img src="https://img.shields.io/badge/logo-javascript-151515?logo=javascript&logoColor=4B70F1"></img>&nbsp;
   <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=4B70F1"></img>&nbsp;
   <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=coffeescript&logoColor=4B70F1"></img>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4B70F1"></img>&nbsp;
