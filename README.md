@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=395B64&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Alisson+Vitor!!;Estagi%C3%A1rio+na+NTT+como+Software+Development!!)](https://git.io/typing-svg)
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/alissonvitor" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=4B70F1"/></a>
 </p>
 
 
-<h3 align="center">:open_book: I'm currently learning : </h3>
+<h1 align="center">:open_book: I'm currently learning : </h1>
 <p align="center">
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></a>
