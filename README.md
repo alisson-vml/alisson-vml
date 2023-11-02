@@ -2,18 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=395B64&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Alisson+Vitor!!;Estagi%C3%A1rio+na+NTT+como+Software+Development!!)](https://git.io/typing-svg)
 
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisson-vml&bg_color=000000&color=b9d7e8&line=576cbc&point=a5d7e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alisson-vml&show_icons=true&count_private=true&hide_border=true&title_color=628FDB&icon_color=33A299&text_color=E7F6F2&bg_color=0d1117" alt="Alisson Vitor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-vml&layout=compact&hide_border=true&title_color=628FDB&text_color=33A299&bg_color=0d1117" />
-</div>
-  
-<div align="center"> 
-<a href="https://linkedin.com/in/alissonvitor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"</a>
-</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/alissonvitor" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=4B70F1"/></a>
@@ -32,6 +20,5 @@
 </p>
 
   ##
-<!--[![](https://visitcount.itsvg.in/api?id=alisson-vml&icon=3&color=12)](https://visitcount.itsvg.in)-->
 
 <img src="https://github.com/alisson-vml/alisson-vml/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
