@@ -11,7 +11,7 @@
 
 
 <h1 align="center">:open_book: I'm currently learning : </h1>
-<p align="center">
+
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
@@ -19,7 +19,7 @@
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>  
-</p>
+
 
 
 
