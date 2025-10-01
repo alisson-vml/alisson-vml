@@ -1,6 +1,6 @@
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=header"/>-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?weight=500&color=1D8134&center=true&lines=Seja+bem+vindo!!)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com/demo/?weight=500&color=1D8134&center=true&lines=Seja+bem+vindo!!])
 
 <img src="https://github.com/alisson-vml/alisson-vml/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
 
